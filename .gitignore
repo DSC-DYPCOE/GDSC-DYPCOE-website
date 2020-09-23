@@ -7,3 +7,5 @@ package-lock.json
 public
 .firebase
 .github
+firebase.json
+.firebaserc
