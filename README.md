@@ -1,2 +1,3 @@
-# DSC-DYPCOE-Website
-This is an repository for DSC DYPCOE official website.
+# Website
+
+This is a repository for official DSC DYPCOE website
