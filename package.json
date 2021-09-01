@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kelvinkamau/Vibranium.git"
+    "url": "git+https://github.com/DSC-DYPCOE/Website.git"
   },
   "keywords": [
     "dsc",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kelvinkamau/Vibranium/issues"
+    "url": "https://github.com/DSC-DYPCOE/Website/issues"
   },
-  "homepage": "https://github.com/kelvinkamau/Vibranium/#readme",
+  "homepage": "https://github.com/DSC-DYPCOE/Website/",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.2.0",
