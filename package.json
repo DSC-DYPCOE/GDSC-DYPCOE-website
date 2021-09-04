@@ -1,7 +1,7 @@
 {
-  "name": "vibranium",
+  "name": "dscdypcoe-pune",
   "version": "1.0.0",
-  "description": "Website for DSC SubSaharan Africa",
+  "description": "Website for DSC DYPCOE PUNE",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
