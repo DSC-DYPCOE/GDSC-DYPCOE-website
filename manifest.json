@@ -3,9 +3,9 @@
   "display": "standalone",
   "orientation": "any",
   "theme_color": "#2F5BE7",
-  "short_name": "DSC DYPCOE",
-  "name": "DSC DYPCOE",
-  "description": "Developer Student Clubs is a Google Developers program for university students to learn mobile and web development skills",
+  "short_name": "GDSC DYPCOE",
+  "name": "GDSC DYPCOE",
+  "description": "Google Developer Student Clubs is a Google Developers program for university students to learn mobile and web development skills",
   "lang": "en-US",
   "icons": [
     {
